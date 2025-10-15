@@ -1,0 +1,8 @@
+metric,value
+Total case study genes,25
+Total full pipeline IBD genes,5100
+Genes in both,20
+Genes only in case study,5
+Genes only in full pipeline,5080
+IL23R in case study,True
+IL23R in full pipeline,False

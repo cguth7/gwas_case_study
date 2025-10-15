@@ -1,0 +1,26 @@
+gene_id,total_patents,gwas_year,spillover_level,spillover_year,source_gene,gene_type
+1432,73,,1,2009,2212,Spillover
+3605,48,,1,2008,6774,Spillover
+6097,38,2012,0,2012,,Direct GWAS
+3570,31,2016,0,2016,,Direct GWAS
+7040,27,,1,2010,4088,Spillover
+112744,26,,1,2008,6774,Spillover
+149233,19,2007,0,2007,,Direct GWAS
+59067,17,,1,2008,6774,Spillover
+6774,17,2008,0,2008,,Direct GWAS
+50616,15,,1,2008,6774,Spillover
+3091,14,,1,2008,6774,Spillover
+2475,13,,1,2012,5579,Spillover
+50615,8,,1,2008,6774,Spillover
+3594,7,,1,2008,6774,Spillover
+4773,5,,1,2009,3586,Spillover
+50943,4,,1,2010,4088,Spillover
+7046,3,,1,2010,4088,Spillover
+3572,3,,1,2008,6774,Spillover
+5600,2,,1,2009,2212,Spillover
+4088,2,2010,0,2010,,Direct GWAS
+3561,2,,1,2008,6774,Spillover
+861,2,,1,2012,6097,Spillover
+6778,1,,1,2009,3586,Spillover
+4089,1,,1,2007,149233,Spillover
+4087,1,,1,2007,149233,Spillover

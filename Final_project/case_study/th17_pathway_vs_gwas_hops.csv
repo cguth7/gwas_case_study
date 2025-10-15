@@ -1,0 +1,26 @@
+gene_id,pathway_hop,gwas_level,status,source_gwas_gene,spillover_year
+149233,0,0,Direct GWAS,,2007
+4087,1,1,1-hop spillover,149233.0,2007
+4088,1,0,Direct GWAS,,2010
+4089,1,1,1-hop spillover,149233.0,2007
+6774,1,0,Direct GWAS,,2008
+3091,2,1,1-hop spillover,6774.0,2008
+3561,2,1,1-hop spillover,6774.0,2008
+3570,2,0,Direct GWAS,,2016
+3572,2,1,1-hop spillover,6774.0,2008
+3594,2,1,1-hop spillover,6774.0,2008
+3605,2,1,1-hop spillover,6774.0,2008
+6097,2,0,Direct GWAS,,2012
+7046,2,1,1-hop spillover,4088.0,2010
+50615,2,1,1-hop spillover,6774.0,2008
+50616,2,1,1-hop spillover,6774.0,2008
+50943,2,1,1-hop spillover,4088.0,2010
+59067,2,1,1-hop spillover,6774.0,2008
+112744,2,1,1-hop spillover,6774.0,2008
+861,3,1,1-hop spillover,6097.0,2012
+1432,3,1,1-hop spillover,2212.0,2009
+2475,3,1,1-hop spillover,5579.0,2012
+4773,3,1,1-hop spillover,3586.0,2009
+5600,3,1,1-hop spillover,2212.0,2009
+6778,3,1,1-hop spillover,3586.0,2009
+7040,3,1,1-hop spillover,4088.0,2010

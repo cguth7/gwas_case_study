@@ -1,0 +1,26 @@
+gene,pre_total,post_total,absolute_change,pct_change,gene_type
+3605,2,46,44,2200.0,Spillover
+6097,0,38,38,100.0,Direct GWAS
+112744,0,26,26,100.0,Spillover
+7040,1,26,25,2500.0,Spillover
+3570,6,25,19,316.66666666666663,Direct GWAS
+149233,0,19,19,100.0,Direct GWAS
+59067,1,16,15,1500.0,Spillover
+6774,1,16,15,1500.0,Direct GWAS
+50616,0,15,15,100.0,Spillover
+3091,0,14,14,100.0,Spillover
+2475,0,13,13,100.0,Spillover
+50615,0,8,8,100.0,Spillover
+3594,0,7,7,100.0,Spillover
+4773,0,5,5,100.0,Spillover
+50943,0,4,4,100.0,Spillover
+7046,0,3,3,100.0,Spillover
+3561,0,2,2,100.0,Spillover
+861,0,2,2,100.0,Spillover
+4088,0,2,2,100.0,Direct GWAS
+6778,0,1,1,100.0,Spillover
+4087,0,1,1,100.0,Spillover
+4089,0,1,1,100.0,Spillover
+3572,1,2,1,100.0,Spillover
+5600,2,0,-2,-100.0,Spillover
+1432,39,34,-5,-12.82051282051282,Spillover
